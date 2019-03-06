@@ -1,6 +1,9 @@
 ---
 name: Bug 反馈
 about: 创建一条与 bug 有关的反馈
+title: "[BUG]"
+labels: bug
+assignees: kmvan
 
 ---
 
